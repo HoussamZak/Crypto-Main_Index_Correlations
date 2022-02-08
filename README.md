@@ -21,22 +21,17 @@ Investing in cryptocurrencies, digital assets, NFTs & DeFi platforms conveys hig
 Do your own research.
 
 ****************************************************************
-
-
-
 Getting Started:
 
     Modules & Dependencies:
     Pandas, Numpy, Datetime, Seaborn, Matplotlib, requests & json
 
-
 Issues:
     main issue was when trying to export the whole findings, dataframes, graphs and markdowns as PDF. 
-
+    Do not run on colab Google because it does not seem to fetch data for ^GSPC which is impossible.
 
 Houssam Zak
 github.com/houssamzak
-
 
 Sources:
 https://www.brookings.edu/research/fed-response-to-covid19/
